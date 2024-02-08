@@ -11,7 +11,7 @@ using backend.Context;
 namespace backend.Migrations
 {
     [DbContext(typeof(AplicationDbContext))]
-    [Migration("20240207233903_v1.0")]
+    [Migration("20240208054925_v1.0")]
     partial class v10
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
